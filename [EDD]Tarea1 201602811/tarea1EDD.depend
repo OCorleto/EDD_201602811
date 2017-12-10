@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1512872430 source:c:\users\usuario\documents\usac\edd\tarea1\tarea1edd\main.c
+	<stdio.h>
+	<stdlib.h>
+

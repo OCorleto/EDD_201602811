@@ -1,0 +1,8 @@
+digraph G {
+e->a
+a->1
+a->b
+e->r
+r->t
+t->s
+}

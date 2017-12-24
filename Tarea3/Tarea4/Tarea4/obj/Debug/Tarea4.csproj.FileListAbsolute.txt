@@ -1,0 +1,9 @@
+C:\Users\usuario\Documents\USAC\EDD\tarea4\Tarea4\Tarea4\bin\Debug\Tarea4.exe.config
+C:\Users\usuario\Documents\USAC\EDD\tarea4\Tarea4\Tarea4\bin\Debug\Tarea4.exe
+C:\Users\usuario\Documents\USAC\EDD\tarea4\Tarea4\Tarea4\bin\Debug\Tarea4.pdb
+C:\Users\usuario\Documents\USAC\EDD\tarea4\Tarea4\Tarea4\obj\Debug\Tarea4.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Documents\USAC\EDD\tarea4\Tarea4\Tarea4\obj\Debug\Tarea4.Form1.resources
+C:\Users\usuario\Documents\USAC\EDD\tarea4\Tarea4\Tarea4\obj\Debug\Tarea4.Properties.Resources.resources
+C:\Users\usuario\Documents\USAC\EDD\tarea4\Tarea4\Tarea4\obj\Debug\Tarea4.csproj.GenerateResource.Cache
+C:\Users\usuario\Documents\USAC\EDD\tarea4\Tarea4\Tarea4\obj\Debug\Tarea4.exe
+C:\Users\usuario\Documents\USAC\EDD\tarea4\Tarea4\Tarea4\obj\Debug\Tarea4.pdb
